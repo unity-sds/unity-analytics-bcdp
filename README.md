@@ -13,13 +13,11 @@
 
 <!-- Header block for project -->
 
-[INSERT YOUR BADGES HERE (SEE: https://shields.io)] [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![SLIM](https://img.shields.io/badge/Best%20Practices%20from-SLIM-blue)](https://nasa-ammos.github.io/slim/)
-
-[INSERT SCREENSHOT OF YOUR SOFTWARE, IF APPLICABLE]
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) [![SLIM](https://img.shields.io/badge/Best%20Practices%20from-SLIM-blue)](https://nasa-ammos.github.io/slim/)
 
 A repository for OGC compliant BCDP Deployment using CWL/Papermill. This project utilizes a Conda environment with various dependencies for data analytics.
 
-[Website](Not Available) | [Docs/Wiki](Not Available) | [Discussion Board](Not Available) | [Issue Tracker](Not Available)
+[Unity Docs](https://unity-sds.gitbook.io/docs/) | [Unity-AS BCDP Docs](https://unity-sds.gitbook.io/docs/developer-docs/analytics/docs/developers-guide) | [Issue Tracker](https://github.com/unity-sds/unity-analytics-bcdp/issues)
 
 ## Features
 
@@ -52,35 +50,19 @@ This guide provides a quick way to get started with our project. Please see our 
 * papermill
 * awscli
 
-### Setup Instructions
+### Setup / Build / Run Instructions
 
-1. Not Available
-
-### Run Instructions
-
-1. Refer to the example notebooks in the `examples` directory.
-
-### Usage Examples
-
-* Check the `process.ipynb` notebook in the `examples` directory for demonstrations.
-
-### Build Instructions (if applicable)
-
-1. Not Available
-
-### Test Instructions (if applicable)
-
-1. Not Available
+See our developer guide: https://unity-sds.gitbook.io/docs/developer-docs/analytics/docs/developers-guide/
 
 ## Changelog
 
 See our [CHANGELOG.md](CHANGELOG.md) for a history of our changes.
 
-See our [releases page](Not Available) for our key versioned releases.
+See our [releases page](https://github.com/unity-sds/unity-analytics-bcdp/releases) for our key versioned releases.
 
 ## Frequently Asked Questions (FAQ)
 
-No questions yet. Propose a question to be added here by reaching out to our contributors! See support section below.
+See our FAQ page: https://unity-sds.gitbook.io/docs/developer-docs/analytics/faq
 
 ## Contributing
 
@@ -92,4 +74,4 @@ See our: [LICENSE](LICENSE)
 
 ## Support
 
-Key points of contact are: Not Available
+Key points of contact are: [Joe Jacob](https://github.com/jjacob7734)
